@@ -1,0 +1,3 @@
+# PAKANTECH
+For great things to come...
+University of Helsinki Exercises
